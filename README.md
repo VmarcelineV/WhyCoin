@@ -1,0 +1,3 @@
+50 Billion pre-mined with safety in mind that if all 50 Billion were to be staked at 20% interest, it would be a 12 billion rise yearly. This has been stated to not be the case, but on the off-chance it were consistently staked it would run through safely for a bit under 3 years. If later on this coin were to achieve widespread adoption, an upgrade and refactoring of the system could take place with a hard fork to push it beyond these limitations.
+
+Block explorer: http://whyexplorer.infernopool.com/ Rich list: http://whyexplorer.infernopool.com/richlist
